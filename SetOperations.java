@@ -2,7 +2,6 @@ import java.util.*;
 
 /**
  * @author Matthew Ernst
- *
  */
 public class SetOperations
 {
@@ -22,7 +21,7 @@ public class SetOperations
 		secondList.add(4);
 		secondList.add(5);
 		secondList.add(6);
-		
+
 		System.out.print(SetOperations.complement(firstList, secondList));
 
 		
